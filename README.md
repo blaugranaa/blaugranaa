@@ -1,4 +1,4 @@
- ![MasterHead](https://pbs.twimg.com/media/F0zpudhagAEbVyh?format=jpg&name=large)
+ ![MasterHead]([https://pbs.twimg.com/media/F0zpudhagAEbVyh?format=jpg&name=large](https://i.pinimg.com/originals/2d/1a/89/2d1a89d4524e87b72320022991cc8c79.gif))
 <h1 align="center">Hi 👾 I'm Ayşenur</h1>
 <h3 align="center">I'm a passionate developer with a background in game development diving into the world of Kotlin and Android.</h3>
 
